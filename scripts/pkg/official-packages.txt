@@ -47,6 +47,7 @@ nano
 nautilus
 nerd-fonts-fira-code
 networkmanager
+neofetch
 nodejs
 noto-fonts
 noto-fonts-emoji
@@ -67,7 +68,6 @@ playerctl
 reflector
 rclone
 rsync
-rtl8821au-dkms-git
 starship
 sed
 shell-color-scripts
