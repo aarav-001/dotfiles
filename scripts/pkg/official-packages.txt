@@ -18,7 +18,7 @@ gcc
 git
 github-cli
 gnome-keyring
-google-chrome
+google-chrome-stable
 gpm
 grep
 grim
@@ -79,7 +79,6 @@ texinfo
 ttf-cascadia-code
 ttf-dejavu
 ttf-font-awesome
-ttf-font-logos
 ttf-linux-libertine
 ttf-ubuntu-font-family
 unzip
